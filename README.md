@@ -3,3 +3,5 @@ I’m an experienced and passionate Python programmer who has worked on a variet
 
 [portfolio
 ](https://flow-glow.github.io)
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
